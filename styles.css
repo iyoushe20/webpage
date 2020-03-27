@@ -94,9 +94,9 @@ hr{
   border-radius: 100%;
   float:left;
   margin-right: 20px;
-  position: relative;
+
   right:60px;
-  top:90px;
+
 
 }
 .skill-row
@@ -104,7 +104,7 @@ hr{
 
   margin:auto;
   line-height: 2;
-  text-align:center;
+  text-align:left;
 
 }
 .link
